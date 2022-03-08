@@ -8,8 +8,10 @@ namespace cv_generator
 {
     class MemberData
     {
-         public string name;
-         public int age;
+        public string name;
+        public int age;
+        public string address;
+        public string phone;
        // MemberData(string name,int age) { }
        
     }
