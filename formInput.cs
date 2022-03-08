@@ -20,9 +20,7 @@ namespace cv_generator
         
         private void formInput_Load(object sender, EventArgs e)
         {
-            MemberData data = new MemberData();
-           // data.name= "Hello";
-            lblName.Text = data.name;
+            
         }
     }
 }
