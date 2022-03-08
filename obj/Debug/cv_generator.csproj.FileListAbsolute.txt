@@ -1,6 +1,7 @@
 C:\Users\ADMIN\Desktop\C# Project\cv_generator\bin\Debug\cv_generator.exe.config
 C:\Users\ADMIN\Desktop\C# Project\cv_generator\bin\Debug\cv_generator.exe
 C:\Users\ADMIN\Desktop\C# Project\cv_generator\bin\Debug\cv_generator.pdb
+C:\Users\ADMIN\Desktop\C# Project\cv_generator\obj\Debug\cv_generator.csproj.AssemblyReference.cache
 C:\Users\ADMIN\Desktop\C# Project\cv_generator\obj\Debug\cv_generator.formInput.resources
 C:\Users\ADMIN\Desktop\C# Project\cv_generator\obj\Debug\cv_generator.Properties.Resources.resources
 C:\Users\ADMIN\Desktop\C# Project\cv_generator\obj\Debug\cv_generator.csproj.GenerateResource.cache
