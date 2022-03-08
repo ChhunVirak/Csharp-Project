@@ -52,8 +52,11 @@
     <Compile Include="formInput.Designer.cs">
       <DependentUpon>formInput.cs</DependentUpon>
     </Compile>
+<<<<<<< HEAD
     <Compile Include="FunctionClass.cs" />
     <Compile Include="MemberData.cs" />
+=======
+>>>>>>> e81c06a16a925a0d67bb54084d73a46d54dcb3b2
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="formInput.resx">

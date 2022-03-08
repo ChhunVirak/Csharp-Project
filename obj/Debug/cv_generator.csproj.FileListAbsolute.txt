@@ -8,3 +8,13 @@ C:\Users\ADMIN\Desktop\C# Project\cv_generator\obj\Debug\cv_generator.csproj.Gen
 C:\Users\ADMIN\Desktop\C# Project\cv_generator\obj\Debug\cv_generator.csproj.CoreCompileInputs.cache
 C:\Users\ADMIN\Desktop\C# Project\cv_generator\obj\Debug\cv_generator.exe
 C:\Users\ADMIN\Desktop\C# Project\cv_generator\obj\Debug\cv_generator.pdb
+D:\Year3\C#\Csharp-Project\bin\Debug\cv_generator.exe.config
+D:\Year3\C#\Csharp-Project\bin\Debug\cv_generator.exe
+D:\Year3\C#\Csharp-Project\bin\Debug\cv_generator.pdb
+D:\Year3\C#\Csharp-Project\obj\Debug\cv_generator.csproj.AssemblyReference.cache
+D:\Year3\C#\Csharp-Project\obj\Debug\cv_generator.formInput.resources
+D:\Year3\C#\Csharp-Project\obj\Debug\cv_generator.Properties.Resources.resources
+D:\Year3\C#\Csharp-Project\obj\Debug\cv_generator.csproj.GenerateResource.cache
+D:\Year3\C#\Csharp-Project\obj\Debug\cv_generator.csproj.CoreCompileInputs.cache
+D:\Year3\C#\Csharp-Project\obj\Debug\cv_generator.exe
+D:\Year3\C#\Csharp-Project\obj\Debug\cv_generator.pdb
