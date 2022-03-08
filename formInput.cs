@@ -21,6 +21,8 @@ namespace cv_generator
         private void formInput_Load(object sender, EventArgs e)
         {
             MemberData data = new MemberData();
+            FunctionClass func = new FunctionClass();
+            
            // data.name= "Hello";
             lblName.Text = data.name;
         }
